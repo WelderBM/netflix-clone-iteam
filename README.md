@@ -6,10 +6,6 @@
 
 > Clone fiel da interface da Netflix, construído com HTML, CSS e JavaScript puro — carrosséis com drag-to-scroll, header dinâmico e seleção de perfis.
 
-![Status](https://img.shields.io/badge/status-concluído-1be4c8?style=flat-square&labelColor=03080f&color=1be4c8)
-![Versão](https://img.shields.io/badge/versão-1.0.0-1be4c8?style=flat-square&labelColor=03080f&color=1be4c8)
-![Licença](https://img.shields.io/badge/licença-MIT-d4a853?style=flat-square&labelColor=03080f&color=d4a853)
-
 <br/>
 
 </div>
@@ -190,10 +186,6 @@ Desenvolvido por **Welder Barroso de Melo**
 # Netflix Clone — iTeam
 
 > A faithful Netflix interface clone built with HTML, CSS, and Vanilla JS — drag-to-scroll carousels, dynamic header, and profile selection screen.
-
-![Status](https://img.shields.io/badge/status-completed-1be4c8?style=flat-square&labelColor=03080f&color=1be4c8)
-![Version](https://img.shields.io/badge/version-1.0.0-1be4c8?style=flat-square&labelColor=03080f&color=1be4c8)
-![License](https://img.shields.io/badge/license-MIT-d4a853?style=flat-square&labelColor=03080f&color=d4a853)
 
 </div>
 
